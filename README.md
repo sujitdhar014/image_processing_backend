@@ -17,7 +17,7 @@ Client ➤ FastAPI ➤ SQLite DB
 ```
 ## 📝  Architecture Diagram
 ```
-![Architecture Diagram](assets/architecture.png)
+![Architecture](assets/architecture.png)
 
 ```
 ---
