@@ -17,7 +17,7 @@ Client ➤ FastAPI ➤ SQLite DB
 ```
 ## 📝  Architecture Diagram
 ```
-![01_Image Processor Backend drawio](https://github.com/user-attachments/assets/55d2bed7-8a3f-4f8c-b959-59092704ee9b)
+![Architecture Diagram](assets/architecture.png)
 
 ```
 ---
