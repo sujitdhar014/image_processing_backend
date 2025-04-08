@@ -16,10 +16,7 @@ Client ➤ FastAPI ➤ SQLite DB
         Webhook Callback (optional)
 ```
 ## 📝  Architecture Diagram
-```
 https://drive.google.com/file/d/19CRN_iuFxFvWorvV0M2dt6M8MDkViPNX/view?usp=drive_link
-
-```
 ---
 
 ## 🚀 Features
